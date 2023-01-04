@@ -1,6 +1,6 @@
 # Neural-Transfer
 
-![Image text](https://raw.github.com/MagicalBrick/repositpry/master/Neural-Transfer/pictures/paper_picture_1.PNG)
+![Image text](https://github.com/MagicalBrick/Neural-Transfer/tree/main/pictures/paper_picture_1.PNG)
 ![Image text](https://raw.github.com/MagicalBrick/repositpry/master/Neural-Transfer/pictures/paper_picture_2.PNG)
 
 A deep learning project for transfer neural of pictures.
