@@ -1,4 +1,8 @@
 # Neural-Transfer
+
+![Image text](pictures/paper_picture_1.PNG)
+![Image text](pictures/paper_picture_2.PNG)
+
 A deep learning project for transfer neural of pictures.
 I heard this when I attend my lab's seminar. That was so interesting to use machine learning to
 change picture's style by using another picture's style. So I found relevant literature and found some reproduced information on the Internet, and reproduced the author's method according to my own understanding.
